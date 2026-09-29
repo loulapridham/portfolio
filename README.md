@@ -1,2 +1,2 @@
 # Welcome to Loula Pridham's Portfolio
-A website showcasing all my work
+Here is a showcase of my work created so far:
